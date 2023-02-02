@@ -8,6 +8,6 @@ public class TestMain {
 			
 	@Test
 	public  void checkTest() {
-		assertTrue(GkPro.checkNum(13));
+		assertTrue(GkPro.checkNum(14));
 	}
 }

@@ -19,6 +19,9 @@ public class GkPro {
 //		  System.out.println("the sum of the number is  = "+num3);
 		
 		checkNum(10);
+		
+		System.out.println("hello how are yiu alll");
+		System.out.println("Bye bye ");
 		  
 	}
 
